@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Avatar Studio",
+  "description": "An application to generate and edit avatars using Google's Gemini API. Users can create unique avatars from text prompts and example images, or edit existing images with simple text commands.",
+  "requestFramePermissions": []
+}
